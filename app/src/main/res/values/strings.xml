@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CardapioPizzas</string>
+    <string name="description_title">Descrição</string>
+    <string name="price_title">Preço:</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Excluir</string>
+    <string name="registry">Novo sabor</string>
+    <string name="flavor">Digite o sabor</string>
+    <string name="description">Digite a descrição da pizza (tamanho, ingredientes)</string>
+    <string name="price">Digite o preço do produto</string>
+    <string name="save">Salvar</string>
+    <string name="details">Detalhes</string>
+
+</resources>
